@@ -32,7 +32,7 @@ Your final report should include each of the following:
   * Average Reading Score
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
+  * % Overall Passing (The percentage of students that passed math and reading.)
 
 ### Top Performing Schools (By % Overall Passing)
 
