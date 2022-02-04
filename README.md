@@ -34,6 +34,7 @@ Your final report should include each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math and reading.)
+  ![data1](Images/data2.PNG)
 
 ### Top Performing Schools (By % Overall Passing)
 
@@ -49,13 +50,17 @@ Your final report should include each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
+![data1](Images/data3.PNG)
+
 ### Bottom Performing Schools (By % Overall Passing)
 
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
+![data1](Images/data4.PNG)
 
 ### Math Scores by Grade\*\*
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+![data1](Images/data5.PNG)
 
 ### Reading Scores by Grade
 
